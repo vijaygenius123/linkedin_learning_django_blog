@@ -5,3 +5,5 @@ blog/migrations/__init__.pyc
 blog/migrations/*
 blog/*.pyc
 mysite/*.pyc
+blog/models.pyc
+mysite/settings.pyc
