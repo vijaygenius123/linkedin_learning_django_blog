@@ -1,3 +1,7 @@
 db.sqlite3
 /*.pyc
 .vscode/launch.json
+blog/migrations/__init__.pyc
+blog/migrations/*
+blog/*.pyc
+mysite/*.pyc
